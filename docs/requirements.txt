@@ -1,0 +1,10 @@
+joblib
+matplotlib
+nose
+numpy>=1.13
+numba>=0.35
+pyod
+pytest
+scipy
+scikit_learn>=0.20
+sphinxcontrib-bibtex
